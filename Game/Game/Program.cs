@@ -192,7 +192,6 @@ namespace Game
             Console.Beep(1046, 400);
             Console.Beep(880, 400);
             Console.Beep(880, 400);
-
         }
 
         //End Function
